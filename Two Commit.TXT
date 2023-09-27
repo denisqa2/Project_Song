@@ -1,1 +1,3 @@
 second commit to feature branch (first was empty file)
+
+pull after remote rm Project_Song_Clone (to check hit the same repository)
